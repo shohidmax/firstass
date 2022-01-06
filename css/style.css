@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+}
+.classone{
+   
+
+}
+.classtow{
+
+}
+.classthree{
+
+}
+#topt{
+    border-left: 2px black;
+    font-size: 60px;
+    font-family: 'Lato', sans-serif;
+}
+
+.commonslap{
+    display: flex;
+    width: 100% ;
+    margin-left: 98px;
+}
+.commonslap div{
+
+        width: 100%;
+        margin-top: 0px;
+        margin-right: 10%;
+        margin-left: 5%;
+}
+.commonslap div div{
+    margin-left: 30%;
+    height: 500px;
+    width: 500px;
+    align-items: center;
+}
+.commonslap div h1{
+    margin-top: 16%;
+}
+.commonslap div img{
+    width: 60%;
+}
+p{
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+}
+#colort{
+    color: #FF7159;
+}
+.text{
+    text-transform: capitalize;
+}
+.but {
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #61f3eb73;
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+}
+.mymission h1{
+    text-transform: capitalize;
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.card{
+    display: flex;
+
+    
+
+}
+.card div p{
+    font-size: 12px;
+}
+.card img{
+    width: 100px;
+    
+}
+.card div{
+    width: 311px;
+    height: 360px;
+    padding: 10px;
+    margin-left: 81px;
+    border-radius: 22px;
+}
+.card div h3{
+    text-transform: capitalize;
+    padding: 10px;
+    font-size: 30px;
+}
+.card p{
+    padding: 10px;
+}
+.card1{
+ background-color: rgba(201, 233, 217, 0.568);
+ width: 300px;
+ height: 350px;
+}
+.card2{
+background-color: rgba(230, 105, 230, 0.288);
+}
+.card3{
+background-color: rgba(132, 229, 247, 0.226);
+}
+.class4{
+    margin-top: 45px;
+}
+
+.a1 img{
+    width: 320px;
+    margin-left: 200px;
+}
+.flex{
+    display: flex;
+}
+.tt{
+    display: flex;
+}
+.ttt {
+    text-transform: capitalize;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.a2{
+    margin-left: 71px;
+    width: 722px;
+}
+#q {
+    font-size: 14px;
+    padding-right: 312px;
+    font-family: cursive;
+}
+
+.a33 {
+    margin-left: 61px;
+    width: 670px;
+    margin-right: -47px;
+}
+#q1 {
+    font-size: 12px;
+    padding-right: 284px;
+    font-family: cursive;
+}
+.corona h1 {
+    text-align: center;
+    font-size: 49px;
+    font-family: auto;
+    font-weight: bolder;
+}
+#col{
+    color: rgb(255, 216, 143);
+}
+#scr{
+    font-size: 10px;
+}
+.a22 {
+    margin-left: 71px;
+    width: 722px;
+    margin-top: 88px;
+}
+.footer {
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
+#white{
+    color: rgb(255, 255, 255);
+}
+#red{
+    color: red;
+}
+p#white {
+    font-size: 7px;
+}
+.oo h2 {
+    font-family: 'Moon Dance', cursive;
+    font-size: 26px;
+}
+.vullu {
+    border-left: 5px solid #44bce3;
+}
